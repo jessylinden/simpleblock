@@ -1,3 +1,5 @@
 # simpleblock
-elem.style.color
-= 'pink'; 
+elem.style.color = 'pink';
+const myObject = {
+  name: 'jess',
+  }
