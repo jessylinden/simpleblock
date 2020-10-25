@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "BlocksJS",
+			"path": "BlocksJS"
+		},
+		{
+			"path": "..\\github.io"
+		}
+	],
+	"settings": {}
+}
